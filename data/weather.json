@@ -4,8 +4,8 @@
   "condition": "cloudy",
   "condition_label": "Umiarkowane zachmurzenie",
   "icon": "☁️",
-  "temp_c": 5.9,
-  "humidity": 85,
+  "temp_c": 5.3,
+  "humidity": 83,
   "precipitation_mm": 0.0,
   "is_day": true,
   "campus_alert": "Umiarkowane zachmurzenie nad kampusem. Idealne warunki do nauki i ucieczki przed sesją.",
@@ -14,7 +14,7 @@
     "particles": "none",
     "player_friction": 0.98,
     "professor_quote": "Gdzie podziały się arkusze z egzaminu z mikroekonomii?!",
-    "hud_badge": "☁️ 5.9°C | Umiarkowane zachmurzenie"
+    "hud_badge": "☁️ 5.3°C | Umiarkowane zachmurzenie"
   },
-  "last_updated": "2026-11-20 08:56 UTC"
+  "last_updated": "2026-11-20 09:55 UTC"
 }
