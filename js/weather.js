@@ -1,21 +1,21 @@
-// Automatycznie wygenerowane przez potok GitHub Actions (2026-11-23 23:45 UTC)
+// Automatycznie wygenerowane przez potok GitHub Actions (2026-11-24 00:55 UTC)
 window.CAMPUS_WEATHER = {
   "city": "Warszawa (Kampus ALK, ul. Jagiellońska)",
-  "source": "Symulacja manualna (Workflow Dispatch)",
-  "condition": "sunny",
-  "condition_label": "Pełne słońce nad Patio ALK (Test CI/CD)",
-  "icon": "☀️",
-  "temp_c": 24.0,
-  "humidity": 45,
-  "precipitation_mm": 0.0,
-  "is_day": true,
-  "campus_alert": "Słoneczna pogoda! ECTS lśnią na Patio, a profesor w dobrym humorze chętnie stawia 5.0!",
+  "source": "Open-Meteo API (Fallback)",
+  "condition": "rain",
+  "condition_label": "Opady deszczu na Jagiellońskiej",
+  "icon": "🌧️",
+  "temp_c": 1.3,
+  "humidity": 92,
+  "precipitation_mm": 0.2,
+  "is_day": false,
+  "campus_alert": "Uwaga: Posadzka na Patio jest śliska! Profesor narzeka na zmoknięte arkusze ocen.",
   "game_effects": {
-    "theme_class": "weather-sunny",
-    "particles": "sunbeams",
-    "player_friction": 0.98,
-    "professor_quote": "Piękna pogoda na zaliczenie w pierwszym terminie! Złapmy trochę słońca!",
-    "hud_badge": "☀️ 24.0°C | Pełne słońce nad Patio ALK (Test CI/CD)"
+    "theme_class": "weather-rain",
+    "particles": "rain",
+    "player_friction": 0.9,
+    "professor_quote": "Brrr, w taki deszcz moje arkusze ocen zamokną! Panie Kolego, zmykajmy do auli!",
+    "hud_badge": "🌧️ 1.3°C | Opady deszczu na Jagiellońskiej"
   },
-  "last_updated": "2026-11-23 23:45 UTC"
+  "last_updated": "2026-11-24 00:55 UTC"
 };
